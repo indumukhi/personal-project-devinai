@@ -1,6 +1,11 @@
 # Indumukhi — Personal Portfolio
 
 A personal portfolio website built with **React 18 + Vite + Tailwind CSS** (frontend) and **FastAPI** (backend).
+<img width="1900" height="856" alt="image" src="https://github.com/user-attachments/assets/7218c965-16a6-4700-8582-44c4358a7446" />
+<img width="1873" height="959" alt="image" src="https://github.com/user-attachments/assets/29bc21b9-b5cc-4bd0-8ec5-6c2aa2097ff0" />
+
+<img width="1865" height="928" alt="image" src="https://github.com/user-attachments/assets/8dac0206-8291-498b-a938-23ec84b49895" />
+
 <img width="1807" height="834" alt="image" src="https://github.com/user-attachments/assets/48504522-7727-4c4c-8ac3-2269b09b5ca8" />
 
 ## Project Structure
